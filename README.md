@@ -1,4 +1,4 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) and then modified for use in the Polaris project.
 
 ## Setup
 
