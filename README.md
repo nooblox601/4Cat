@@ -1,4 +1,4 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) and then modified for use in the Polaris project.
+turbowarp-gui modified for use in [4Cat](https://4Cat.ns.org/) and then modified for use in the NS project.
 
 ## Setup
 
@@ -8,7 +8,7 @@ If you just want to play with the GUI then it's the same process as upstream scr
 
 ## License
 
-TurboWarp's modifications to Scratch are licensed under the GNU General Public License v3.0. See LICENSE or https://www.gnu.org/licenses/ for details.
+4Cat's modifications to Turbowarp are licensed under the GNU General Public License v3.0. See LICENSE or https://www.gnu.org/licenses/ for details.
 
 Original license for scratch-gui:
 
