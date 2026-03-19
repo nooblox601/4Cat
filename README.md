@@ -1,4 +1,4 @@
-turbowarp-gui modified for use in [4Cat](https://4Cat.ns.org/) and then modified for use in the NS project.
+turbowarp-gui modified for use in [4Cat](https://4cat.ns.org/) and then modified for use in the NS project.
 
 ## Setup
 
